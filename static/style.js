@@ -8,6 +8,7 @@ export default <style>{`
     letter-spacing: -8px;
     color: #f0f0f0;
     margin: -32px 0px;
+    text-align: right;
   }
   p {
     margin: 0px;
